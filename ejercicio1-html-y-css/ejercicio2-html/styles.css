@@ -1,0 +1,17 @@
+.container{
+    margin: 0;
+    padding: 20px;
+    box-sizing: border-box; 
+    background-color: #600aa7;
+
+  }
+
+  .form-register {
+    width: 300px;
+    padding: 20px;
+    background-color: #600aa7;
+    border-radius: 20px;
+    margin: 0 auto;
+
+  }
+  
